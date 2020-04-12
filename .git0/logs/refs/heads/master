@@ -1,0 +1,61 @@
+0000000000000000000000000000000000000000 f0e945b816d1e42edd0c62cf8482f52d9ae8a4cc lekanda <abernaolao@gmail.com> 1585568873 +0200	commit (initial): 106:Comienzo. Crearcarpetas y git init
+f0e945b816d1e42edd0c62cf8482f52d9ae8a4cc fe3d832a08c5622d41cc21dc2583f42e4bf36d3a lekanda <abernaolao@gmail.com> 1585569214 +0200	commit: 106:npm init
+fe3d832a08c5622d41cc21dc2583f42e4bf36d3a 9188d013216c53d4c03b623c32e51ede88d9284a lekanda <abernaolao@gmail.com> 1585569816 +0200	commit: 106:Index principal hecho
+9188d013216c53d4c03b623c32e51ede88d9284a e5d8d513d671637c999bc82474271378e3459136 lekanda <abernaolao@gmail.com> 1585570022 +0200	commit: 106:Fin. Crear Script Start
+e5d8d513d671637c999bc82474271378e3459136 02027e841954420a1d342a01e58ee39874a3c66e lekanda <abernaolao@gmail.com> 1585570407 +0200	commit: 107: Crear configuracion rutas
+02027e841954420a1d342a01e58ee39874a3c66e ffcb8f9b99661d7d9fb75572f4ae63b46fae1773 lekanda <abernaolao@gmail.com> 1585570673 +0200	commit: 107: Configurar index rutas
+ffcb8f9b99661d7d9fb75572f4ae63b46fae1773 238b53684008bf06e4329ea3f0f33a1bfd965c2c lekanda <abernaolao@gmail.com> 1585570905 +0200	commit: 107:Actualizar index pral y Fin
+238b53684008bf06e4329ea3f0f33a1bfd965c2c 3178fd1f5f87802431b2f860a28d55f656a3fb39 lekanda <abernaolao@gmail.com> 1585571794 +0200	commit: 108: Habilitar archivos estaticos en indexPral
+3178fd1f5f87802431b2f860a28d55f656a3fb39 e031a24a2806f16f2680752b822c2176a3b56beb lekanda <abernaolao@gmail.com> 1585571872 +0200	commit (amend): 108: Habilitar Handlebars y Archivos estaticos en indexPral
+e031a24a2806f16f2680752b822c2176a3b56beb 74e3847a4502ffee418af6309aa76ebc93f33aaa lekanda <abernaolao@gmail.com> 1585571904 +0200	merge refs/remotes/origin/master: Merge made by the 'recursive' strategy.
+74e3847a4502ffee418af6309aa76ebc93f33aaa 50ba979e01ec67ce1a0b375d8222bfddaf71f9b8 lekanda <abernaolao@gmail.com> 1585571948 +0200	commit (amend): 108: Habilitar Handlebars y Archivos estaticos en indexPral
+50ba979e01ec67ce1a0b375d8222bfddaf71f9b8 12cd386602c102c6ae7ee7ff64e38dc9b4640c95 lekanda <abernaolao@gmail.com> 1585574830 +0200	commit: 109y110: MasterPage en Handlers
+12cd386602c102c6ae7ee7ff64e38dc9b4640c95 ca2a0bbaad9f9d2b13d77d25e82d19522b7f6461 lekanda <abernaolao@gmail.com> 1585579864 +0200	commit: Variables de entorno
+ca2a0bbaad9f9d2b13d77d25e82d19522b7f6461 e6efe7759cb2a021f542fe6e007991dc3d5b6439 lekanda <abernaolao@gmail.com> 1585579923 +0200	commit (amend): 116:Variables de Entorno
+e6efe7759cb2a021f542fe6e007991dc3d5b6439 e5aa82431a5796e4332e635f1b7bd0dcf1acc975 lekanda <abernaolao@gmail.com> 1585582031 +0200	commit: 117: Instalando Mongoose y conectandose a la DB
+e5aa82431a5796e4332e635f1b7bd0dcf1acc975 d4c2eb95192d8ab7d6e4778912503e2d39375602 lekanda <abernaolao@gmail.com> 1585585918 +0200	commit: 118:Crear el modelo Vacantes y parte de 119
+d4c2eb95192d8ab7d6e4778912503e2d39375602 74a9e29a279dd00371fd0deb07dd342691e1f2c2 lekanda <abernaolao@gmail.com> 1585587183 +0200	commit: 119: Formulario para nuevas vacantes
+74a9e29a279dd00371fd0deb07dd342691e1f2c2 a5ac8e674e564cb50a7b44ab2373c705fc04c02c lekanda <abernaolao@gmail.com> 1585589761 +0200	commit: 120:Agregando Editor de Texto . Trix. WYSIWYG
+a5ac8e674e564cb50a7b44ab2373c705fc04c02c 3a4ed5f37f0a123442c17f65e4af93301e3a610d lekanda <abernaolao@gmail.com> 1585591223 +0200	commit: 121 Agregando un Helper de Handlebars al Listado
+3a4ed5f37f0a123442c17f65e4af93301e3a610d 25c61aaedea4a15235da227ffda1c944dfd6e21f lekanda <abernaolao@gmail.com> 1585597245 +0200	commit: prueba commit
+25c61aaedea4a15235da227ffda1c944dfd6e21f 1a267ed762f2744f5b9e3e9b63ff89bb15a885cc lekanda <abernaolao@gmail.com> 1585671023 +0200	commit: 122:webpack
+1a267ed762f2744f5b9e3e9b63ff89bb15a885cc 832169704c6987d3cba6149ee47a77abd8d6463e lekanda <abernaolao@gmail.com> 1585672986 +0200	commit: 123:Guardar Set de Skills
+832169704c6987d3cba6149ee47a77abd8d6463e cea93de1a3f5a3231a96ac1952f4c3bd459895c2 lekanda <abernaolao@gmail.com> 1585747200 +0200	commit: Guardar Vacantes en DB y Mostrar vacantes en pagina principal
+cea93de1a3f5a3231a96ac1952f4c3bd459895c2 23e504214d618dda59e455a5616cb6fea867ce7f lekanda <abernaolao@gmail.com> 1585750451 +0200	commit: 126:Mostrando una vacante
+23e504214d618dda59e455a5616cb6fea867ce7f 4b3994f457daa03cf05f8361b401f05691088e10 lekanda <abernaolao@gmail.com> 1585751657 +0200	commit: 127:Formulario Actualizar
+4b3994f457daa03cf05f8361b401f05691088e10 32fc0a49c1c3f202cc319c7a2a2a7513c5c96a69 lekanda <abernaolao@gmail.com> 1585754000 +0200	commit: 128:Llenando los Skills con valores de DB
+32fc0a49c1c3f202cc319c7a2a2a7513c5c96a69 3b46cb9b7263c27a3f1c262e30e87bce9cf67763 lekanda <abernaolao@gmail.com> 1585756032 +0200	commit: 129:Terminando Formulario de Editar
+3b46cb9b7263c27a3f1c262e30e87bce9cf67763 505dbdebab764194d64fb738bf3c5f8bebb92bec lekanda <abernaolao@gmail.com> 1585764354 +0200	commit: 130:Poner los skills selecdcionados en el hidden
+505dbdebab764194d64fb738bf3c5f8bebb92bec 3569d68c846b5b3cd1ad0a3eb5aaac9985ccc782 lekanda <abernaolao@gmail.com> 1585839316 +0200	commit: 131:Seleccionar el tipo de contrato
+3569d68c846b5b3cd1ad0a3eb5aaac9985ccc782 9a87cef08263798925022aaf5710618df196cd5c lekanda <abernaolao@gmail.com> 1585843610 +0200	commit: 132: Almacenar datos de formulario en la DB
+9a87cef08263798925022aaf5710618df196cd5c 9b2dc3f7c498e57bed1c0832781dd4cc604771aa lekanda <abernaolao@gmail.com> 1585848864 +0200	commit: 132: Almacenar datos de formulario en la DB-Correcciones
+9b2dc3f7c498e57bed1c0832781dd4cc604771aa 2c0252cb50cb32809d84ff7735cc731ed67851b7 lekanda <abernaolao@gmail.com> 1585852148 +0200	commit: 133: Ruta, controlador y vista de modelo Usuarios
+2c0252cb50cb32809d84ff7735cc731ed67851b7 7ed089f76051e9c3522e3c5147785ef6104eeab8 lekanda <abernaolao@gmail.com> 1586002354 +0200	commit: 134: Modelo Usuarios
+7ed089f76051e9c3522e3c5147785ef6104eeab8 f4cf8ede34cd072bcb4fd3dbd7ff91c547efb832 lekanda <abernaolao@gmail.com> 1586007033 +0200	commit: 135:Almacenar usuarios en la DB
+f4cf8ede34cd072bcb4fd3dbd7ff91c547efb832 1be5eee0a81c7278ea089a47f15afafff774e694 lekanda <abernaolao@gmail.com> 1586093293 +0200	commit: 136,137,138 y 140:Validar, Sanitizar, filtrar errores, Mostrar Errores
+1be5eee0a81c7278ea089a47f15afafff774e694 2aad2ca63146a387702b95ecad69068af0eb26cc lekanda <abernaolao@gmail.com> 1586094054 +0200	commit (amend): 136,137,138 y 139:Validar, Sanitizar, filtrar errores, Mostrar Errores
+2aad2ca63146a387702b95ecad69068af0eb26cc fa0a1833b97043f34cf35cddc4bd4cc5790d5e78 lekanda <abernaolao@gmail.com> 1586094082 +0200	merge refs/remotes/origin/master: Merge made by the 'recursive' strategy.
+fa0a1833b97043f34cf35cddc4bd4cc5790d5e78 1fac1cd58d3e8bdc14130be90bd9a61eb771a2d8 lekanda <abernaolao@gmail.com> 1586094129 +0200	commit: 136,137,138 y 139:Validar, Sanitizar, filtrar errores, Mostrar Errores
+1fac1cd58d3e8bdc14130be90bd9a61eb771a2d8 1aeee29bf1cd5b86f0da79b2f1f98493dfd2570a lekanda <abernaolao@gmail.com> 1586104550 +0200	commit: 140:Limpiando las alertas con setInterval
+1aeee29bf1cd5b86f0da79b2f1f98493dfd2570a a30dea6f0781308004fdfe536f764f57bf9868d1 lekanda <abernaolao@gmail.com> 1586108015 +0200	commit: 141: Validando los Errores de Mongo
+a30dea6f0781308004fdfe536f764f57bf9868d1 38eaf725f2648262d3a9f7687cbf9b4e3d934dd2 lekanda <abernaolao@gmail.com> 1586112287 +0200	commit: 142:Creando un formulario de autenticacion y sus archivos
+38eaf725f2648262d3a9f7687cbf9b4e3d934dd2 020b790e005aa80a1e43b49e2d088d9393a384e0 lekanda <abernaolao@gmail.com> 1586177289 +0200	commit: 143 y 144 : Funcion para comparar Passwords y Configurando passport y mostrando errores
+020b790e005aa80a1e43b49e2d088d9393a384e0 fea322366406035be1a5edaa0c982872f1d7d7e1 lekanda <abernaolao@gmail.com> 1586183496 +0200	commit: 146 y 147: Autorizacion y Guardar el Autor de la vacante
+fea322366406035be1a5edaa0c982872f1d7d7e1 578405b42f52c8cd40ee47b0ed4997ce59530f08 lekanda <abernaolao@gmail.com> 1586188291 +0200	commit: 148 y 149:
+578405b42f52c8cd40ee47b0ed4997ce59530f08 757ac931d9b507290e0b3f524f37e7fd2987795e lekanda <abernaolao@gmail.com> 1586197395 +0200	commit: 150
+757ac931d9b507290e0b3f524f37e7fd2987795e f3bbcb909f6d70233f6e07317c5ddc58e992ed02 lekanda <abernaolao@gmail.com> 1586286650 +0200	commit: 151
+f3bbcb909f6d70233f6e07317c5ddc58e992ed02 f43383741d5d584a30451c59bc14cce8f18b872a lekanda <abernaolao@gmail.com> 1586331484 +0200	commit: 151 FIN
+f43383741d5d584a30451c59bc14cce8f18b872a dc392374a00d84d2dbfeac5c72b5490d74f28aa5 lekanda <abernaolao@gmail.com> 1586341449 +0200	commit: 152 y 153
+dc392374a00d84d2dbfeac5c72b5490d74f28aa5 8a749ac59b6f0ebef83bca5790fd9c336e34b10b lekanda <abernaolao@gmail.com> 1586358742 +0200	commit: 154 Pruebas
+8a749ac59b6f0ebef83bca5790fd9c336e34b10b f7f9c375dbdbee325510639f53d90d28efe9b285 lekanda <abernaolao@gmail.com> 1586364185 +0200	commit: 154 fin
+f7f9c375dbdbee325510639f53d90d28efe9b285 833453da6fb6f30ae4be1e87f91b37bf8a2d5288 lekanda <abernaolao@gmail.com> 1586366347 +0200	commit: 155
+833453da6fb6f30ae4be1e87f91b37bf8a2d5288 289e8488eab5d16fae603dcc51a899195ee679a6 lekanda <abernaolao@gmail.com> 1586378417 +0200	commit: 156 problema con DATASET
+289e8488eab5d16fae603dcc51a899195ee679a6 521011aea2535521d8a79c8b33e57a6a9e99aa54 lekanda <abernaolao@gmail.com> 1586381889 +0200	commit: 156 problema con DATASET2
+521011aea2535521d8a79c8b33e57a6a9e99aa54 24d1f7cf23489662f92377fdf41e406827289674 lekanda <abernaolao@gmail.com> 1586624633 +0200	commit: 158
+24d1f7cf23489662f92377fdf41e406827289674 521011aea2535521d8a79c8b33e57a6a9e99aa54 lekanda <abernaolao@gmail.com> 1586625066 +0200	reset: moving to 521011a
+521011aea2535521d8a79c8b33e57a6a9e99aa54 289e8488eab5d16fae603dcc51a899195ee679a6 lekanda <abernaolao@gmail.com> 1586625203 +0200	reset: moving to 289e848
+289e8488eab5d16fae603dcc51a899195ee679a6 833453da6fb6f30ae4be1e87f91b37bf8a2d5288 lekanda <abernaolao@gmail.com> 1586687992 +0200	reset: moving to 833453d
+833453da6fb6f30ae4be1e87f91b37bf8a2d5288 ddc2e95dcd97db56ffbdaa81f71f876d4ac91ebc lekanda <abernaolao@gmail.com> 1586693064 +0200	commit: fallo id vacnate arregaldo
+ddc2e95dcd97db56ffbdaa81f71f876d4ac91ebc 833453da6fb6f30ae4be1e87f91b37bf8a2d5288 lekanda <abernaolao@gmail.com> 1586694495 +0200	reset: moving to 833453d
+833453da6fb6f30ae4be1e87f91b37bf8a2d5288 21ac2299eb991260d6619d3dce2d0644eaa64f50 lekanda <abernaolao@gmail.com> 1586697512 +0200	commit: 156: Con fallos corregidos
+21ac2299eb991260d6619d3dce2d0644eaa64f50 19d259b32177a72ed9ec4ccd6ab89dd6af974e4c lekanda <abernaolao@gmail.com> 1586703122 +0200	commit: 157:Verificar que elimina la persona que lo creo
