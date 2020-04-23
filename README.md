@@ -1,5 +1,5 @@
-# DevJobs
-Repositorio con el código final del Proyecto DevJobs Para colgar vacantes de trabajo.
+## DevJobs
+## Repositorio con el código final del Proyecto DevJobs Para colgar vacantes de trabajo.
 Autor: Andres Bernaola
 
 <a href="#">
